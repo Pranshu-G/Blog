@@ -82,4 +82,4 @@ Since every device sends payload in different format, it needs to be converted i
 
 
 
-*Feedback is appreciated. Write in to [pranshu.grover18@gmail.com](pranshu.grover18@gmail.com)*
+*Feedback is appreciated. Write in to [pranshu.grover18@gmail.com](pranshu.grover18@gmail.com).*
